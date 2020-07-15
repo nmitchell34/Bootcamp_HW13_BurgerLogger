@@ -1,0 +1,8 @@
+body {
+    background-image: url(https://image.freepik.com/free-photo/top-view-frame-with-delicious-burger-copy-space_23-2148308834.jpg);
+    background-size: cover;
+  }
+  
+  .container{
+    background: rgba(255, 255, 255,0.4)
+  }
